@@ -6,7 +6,7 @@ import {AseToken} from "../contracts/AseToken.sol";
 
 /**
  * @title Deploy Asé Token Script
- * @notice Professional deployment script for the enhanced ASÉ community token
+ * @notice Deployment script for the enhanced ASÉ community token
  */
 contract DeployAseScript is Script {
     function run() external {

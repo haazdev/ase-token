@@ -1,6 +1,6 @@
 # Asé Community Token
 
-A professional-grade ERC-20 token for recognizing spiritual labor, mutual aid, and regenerative community practices.
+An ERC-20 token for recognizing spiritual labor, mutual aid, and regenerative community practices.
 
 ## 🌿 Contract Overview
 
